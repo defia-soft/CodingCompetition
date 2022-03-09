@@ -9,7 +9,12 @@ You have 2 tasks for coding. These tasks will be evaluated independent from each
 
 - Implementation
 
-Then you need to open a Pull-Request for this project to submit your code. Also, you are expected to paste your final code to the provided interview's first answer area.
+Then you need to open a Pull-Request for this project to submit your code. 
+Also, you are expected to paste your final code to the below link first answer area.
+Your next step will take place on the link below.
+
+[Interview Part 2](https://www.interviewzen.com/apply/QKNVWP)
+
 
 ## Coding Task Details ##
 ### Refactoring ###
