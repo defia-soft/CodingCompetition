@@ -1,6 +1,6 @@
-# CodingContest
+# CodingCompetition
 
-Welcome to Defia-Soft coding contest!
+Welcome to Defia-Soft coding competition!
 
 This is your initial code to start. There are four languages you can choose. They are C++, C#, Java, Javascript respectively.
 You have 2 tasks for coding. These tasks will be evaluated independent from each other for your final score.
